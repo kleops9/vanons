@@ -1,0 +1,320 @@
+# Translation of Krusze in Dutch
+# This file is distributed under the same license as the Krusze package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-16 10:08:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Krusze\n"
+
+#. Theme Name of the plugin/theme
+msgid "Krusze"
+msgstr "Krusze"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Zoeken"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Zoeken &hellip;"
+
+#: searchform.php:14 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: search.php:28
+msgid "Search results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: inc/template-tags.php:400
+msgid "Page"
+msgstr "Pagina"
+
+#: inc/template-tags.php:348
+msgid "Previous post:"
+msgstr "Vorig bericht:"
+
+#: inc/template-tags.php:345
+msgid "Next post:"
+msgstr "Volgend bericht:"
+
+#: inc/template-tags.php:338
+msgid "Published in"
+msgstr "Gepubliceerd in"
+
+#: inc/template-tags.php:330 inc/template-tags.php:344
+#: inc/template-tags.php:399
+msgid "Next"
+msgstr "Verder"
+
+#: inc/template-tags.php:329 inc/template-tags.php:347
+#: inc/template-tags.php:398
+msgid "Previous"
+msgstr "Vorige"
+
+#: inc/template-tags.php:312
+msgid "Tags"
+msgstr "Trefwoorden"
+
+#: inc/template-tags.php:270 inc/template-tags.php:277
+msgid "Published on"
+msgstr "Gepubliceerd op"
+
+#: inc/template-tags.php:296
+msgid "Format"
+msgstr "Uitvoering"
+
+#: inc/template-tags.php:257
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: inc/template-tags.php:257
+msgid "1 Comment"
+msgstr "Eén reactie"
+
+#: inc/template-tags.php:257
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#: inc/template-tags.php:242
+msgid "Categories"
+msgstr "Categorieën"
+
+#: inc/template-tags.php:197 inc/template-tags.php:223
+msgid "View all posts by %s"
+msgstr "Toon alle berichten van %s"
+
+#: inc/template-tags.php:195
+msgid "Author"
+msgstr "Auteur:"
+
+#: inc/template-tags.php:180
+msgid "Link to image"
+msgstr "Naar afbeelding koppelen"
+
+#: inc/template-tags.php:178
+msgid "Original dimensions"
+msgstr "Originele afmetingen"
+
+#: inc/template-tags.php:36
+msgid "Continue reading"
+msgstr "Lees verder"
+
+#: inc/template-tags.php:127 page.php:40
+msgid "Edit"
+msgstr "Bewerkend"
+
+#: inc/template-tags.php:21
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: inc/template-tags.php:20
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: inc/template-tags.php:18
+msgid "Comment navigation"
+msgstr "Reacties-navigatie"
+
+#: inc/post-custom-meta-post-layout.php:45
+#: inc/post-custom-meta-site-layout.php:45
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/customizer.php:90 inc/post-custom-meta-post-layout.php:99
+msgid "Two columns, right sidebar"
+msgstr "Twee kolommen, Sidebar rechts"
+
+#: inc/customizer.php:91 inc/post-custom-meta-post-layout.php:100
+msgid "Two columns, left sidebar"
+msgstr "Twee kolommen, Sidebar links"
+
+#: inc/customizer.php:71 inc/post-custom-meta-site-layout.php:99
+msgid "Wide"
+msgstr "Breedte"
+
+#: inc/customizer.php:89 inc/post-custom-meta-post-layout.php:98
+msgid "One column"
+msgstr "Een kolom"
+
+#: inc/customizer.php:86 inc/post-custom-meta-post-layout.php:21
+msgid "Post layout"
+msgstr "Bericht-layout"
+
+#: inc/customizer.php:67 inc/post-custom-meta-site-layout.php:21
+msgid "Site layout"
+msgstr "Site layout"
+
+#: inc/customizer.php:70 inc/post-custom-meta-site-layout.php:98
+msgid "Boxed"
+msgstr "Gefixeerde breedte"
+
+#: inc/customizer.php:53
+msgid "Layout"
+msgstr "Opmaak"
+
+#: inc/custom-header.php:42
+msgctxt "header image description"
+msgid "Black"
+msgstr "Zwart"
+
+#: inc/custom-header.php:47
+msgctxt "header image description"
+msgid "Blue"
+msgstr "Blauw"
+
+#: inc/custom-header.php:52
+msgctxt "header image description"
+msgid "Brown"
+msgstr "Bruin"
+
+#: inc/custom-header.php:57
+msgctxt "header image description"
+msgid "Gray"
+msgstr "Grijs"
+
+#: inc/custom-header.php:62
+msgctxt "header image description"
+msgid "Green"
+msgstr "Groen"
+
+#: inc/custom-header.php:67
+msgctxt "header image description"
+msgid "Orange"
+msgstr "Oranje"
+
+#: inc/custom-header.php:77
+msgctxt "header image description"
+msgid "Purple"
+msgstr "Paars"
+
+#: inc/custom-header.php:82
+msgctxt "header image description"
+msgid "Red"
+msgstr "Rood"
+
+#: inc/custom-header.php:87
+msgctxt "header image description"
+msgid "Silver"
+msgstr "Zilver"
+
+#: inc/custom-header.php:97
+msgctxt "header image description"
+msgid "White"
+msgstr "Wit"
+
+#: inc/custom-header.php:102
+msgctxt "header image description"
+msgid "Yellow"
+msgstr "Geel"
+
+#: inc/customizer.php:21
+msgid "Google Font"
+msgstr "Google Font"
+
+#: inc/customizer.php:43
+msgid "Google Font subset"
+msgstr "Google Font subset"
+
+#: inc/custom-header.php:72
+msgctxt "header image description"
+msgid "Pink"
+msgstr "Roze"
+
+#: inc/custom-header.php:92
+msgctxt "header image description"
+msgid "Tan"
+msgstr "Brons"
+
+#: inc/customizer.php:32
+msgid "Google Font family"
+msgstr "Google Font familie"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Ga direct naar de inhoud"
+
+#: functions.php:145 functions.php:147
+msgid "Colophon"
+msgstr "Colofon"
+
+#: functions.php:134 functions.php:136
+msgid "Footer"
+msgstr "Voet"
+
+#: functions.php:123 functions.php:125
+msgid "Header"
+msgstr "Kop"
+
+#: functions.php:112 functions.php:114
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:58
+msgid "Navigation Menu"
+msgstr "Navigatiemenu"
+
+#: functions.php:57 header.php:77 header.php:92 inc/template-tags.php:327
+msgid "Navigation"
+msgstr "Menu"
+
+#: footer.php:63
+msgid "Powered by WordPress"
+msgstr "Aangedreven door WordPress"
+
+#: footer.php:63
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content.php:27 page.php:36
+msgid "Pages:"
+msgstr "Pagina\\'s:"
+
+#: content-none.php:15
+msgid "No posts found."
+msgstr "Geen berichten gevonden."
+
+#: comments.php:63
+msgid "Comment"
+msgstr "Reacties"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:31
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "Één reactie op %2$s"
+msgstr[1] "%1$s reacties op %2$s"
+
+#: comments.php:22
+msgid "Protected Comments: Please enter your password to view comments."
+msgstr "Beveiligde reacties: geef je wachtwoord om de reacties te bekijken."
+
+#: 404.php:30 content-none.php:19
+msgid "Sorry, no posts matched your criteria."
+msgstr "Geen berichten gevonden die overeenkomen met je criteria."
+
+#: 404.php:26
+msgid "Page not found."
+msgstr "Pagina niet gevonden."
+
+#. Theme URI of the plugin/theme
+msgid "http://krusze.com/krusze"
+msgstr "http://krusze.com/krusze"
+
+#. Author of the plugin/theme
+msgid "krusze.com"
+msgstr "krusze.com"
+
+#. Author URI of the plugin/theme
+msgid "http://krusze.com"
+msgstr "http://krusze.com"
